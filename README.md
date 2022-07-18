@@ -1,5 +1,5 @@
 # Quicly-Clipboard #
-Made by TheProfesso
+Made by TheProfessor
 
 Telegram: @TheProfessorOfTelegram
 Github: TheProfessorHearYou
